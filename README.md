@@ -1,4 +1,5 @@
+PEMBURU BAJU HACKTOBERFEST!!
 #quotes_Bebas
-Tambahkan Quotesnya dalam File Quote.txt
+#Tambahkan Quotesnya dalam File Quote.txt
 
 #HACKTOBERFEST2021
