@@ -18,11 +18,11 @@ If you’ve never contributed to open source before, this is the perfect time to
 <br />
 
 
-# :star2: AniWP-HacktoberFest-2021
-Situs Wallpaper Anime ( bukan wibu )
+# ➡️: FREE-QUOTES
+KELUARKAN SEMUA KEGABUTAN
 
 \
 <br />
 
-# :fire: Rules
-Cara berkontribusi nya sangat mudah sekali, baca di bawah ini:
+# ♾️: Rules
+MASUKKAN PADA FILE QUOTES.TXT
