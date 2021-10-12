@@ -1,4 +1,5 @@
 "Jadilah seorang programmer yang handal dan jujur. Kamu bisa mencurangi klien mu tapi tidak dengan tuhan mu"
 "Terima kasih kepada para dosen dan tenaga pengajar yang telah mengajari kamI Hingga kami pusing bergadang bermalam malam Mengenai koding dan bahasa pemograman. Walaupun terkadang kalian killer minta ampun, Tapi kemampuan program ini akan kami bawa ke dunia kerja"
-"Bukan kamu doang yang aku prioritaskan tapi masih ada titik koma, typo dalam kodingan yang aku dahulukan
-Jangan lupa titik koma(;)
+"Bukan kamu doang yang aku prioritaskan tapi masih ada titik koma, typo dalam kodingan yang aku dahulukan"
+"Jangan lupa titik koma(;)"
+"Tulislah kodemu dengan konsep kegilaanmu, jika kode mu masih error berrati kamu masih waras -MFP"
