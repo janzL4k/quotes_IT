@@ -4,3 +4,4 @@
 "Jangan lupa titik koma(;)"
 "Tulislah kodemu dengan konsep kegilaanmu, jika kode mu masih error berrati kamu masih waras -MFP"
 "Tetep ngoding jan sampe lupa"
+"Tetaplah bernafas"
