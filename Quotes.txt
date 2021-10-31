@@ -5,4 +5,4 @@
 "Tulislah kodemu dengan konsep kegilaanmu, jika kode mu masih error berrati kamu masih waras -MFP"
 "Tetep ngoding jan sampe lupa"
 "Jangan semangat, tetap menyerah.."
-" Belum Eror, bukan Programer"
+" Belum Eror, bukan Programer "
